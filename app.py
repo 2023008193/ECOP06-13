@@ -1,7 +1,8 @@
 import streamlit as st
-import panda as pd
+import pandas as pd
 
-st.set_page_config('Daniel-ECOP06','https://unifei.edu.br/wp-content/themes/twentytwelve-child/img/cabecalho/logo-unifei-oficial.png')
+st.set_page_config('Daniel-ECOP06',
+                   'https://unifei.edu.br/wp-content/themes/twentytwelve-child/img/cabecalho/logo-unifei-oficial.png')
 
 st.title('Pagina de Teste ECOP06')
 
